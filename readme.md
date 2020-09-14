@@ -13,7 +13,13 @@ To start building, clone this repository:
 git clone https://github.com/ionic-team/docs-demo.git
 ```
 
-Once cloned, run the following to install dependencies and run the app:
+Once cloned, move into the docs-demo generated folder:
+
+```bash
+cd docs-demo
+```
+
+Now run the following to install dependencies and run the app:
 
 ```bash
 npm i
